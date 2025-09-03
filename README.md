@@ -8,6 +8,7 @@
 [5. Результат](#результаты)    
 [6. Выводы](#выводы) 
 
+
 ### Описание проекта   
 Имеется набор данных о посещениях и характеристики пациентов  в медицинском учреждении. 
 Нужно выяснить, почему люди, получившие инструкции по лечению, не приходят на следующий приём.
@@ -28,10 +29,9 @@
 
 
 ### Краткая информация о данных
-Первичный ноутбук с моделью находится [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/e2d0075161743608eb4ddff4407c1e57/asset-v1:SkillFactory+DSPRMGU+2023_FEB+type@asset+block/noshowappointments_cometml.ipynb)
 Данные в формате zip находятся [здесь](https://github.com/dnt1971/SkillFactory_DS_dnt_EDA_5_loging/blob/master/data/KaggleV2-May-2016.csv.zip), оригинал [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/757324828c4c8e82141ee30b3a5e2022/asset-v1:SkillFactory+DSPRMGU+2023_FEB+type@asset+block/KaggleV2-May-2016.csv.zip). 
 
-Мтруктура данных:
+Структура данных:
 
 - No_show — пациент не пришёл на приём;
 - Gender — пол пациента;
